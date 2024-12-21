@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lasagna</title>
+</head>
+<body>
+    <h1>Lasagna</h1>
+    <img src="https://via.placeholder.com/400" alt="Lasagna">
+    
+    <h2>Description</h2>
+    <p>Lasagna is a popular Italian dish made of layers of pasta, meat sauce, and cheese.</p>
+    
+    <h2>Ingredients</h2>
+    <ul>
+        <li>Lasagna noodles</li>
+        <li>Ground beef</li>
+        <li>Ricotta cheese</li>
+        <li>Tomato sauce</li>
+        <li>Cheddar cheese</li>
+    </ul>
+    
+    <h2>Steps</h2>
+    <ol>
+        <li>Preheat oven to 350°F (175°C).</li>
+        <li>Boil the lasagna noodles.</li>
+        <li>Cook the ground beef in a pan.</li>
+        <li>Assemble the lasagna layers and bake for 45 minutes.</li>
+    </ol>
+</body>
+</html>

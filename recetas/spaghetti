@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spaghetti</title>
+</head>
+<body>
+    <h1>Spaghetti</h1>
+    <img src="https://via.placeholder.com/400" alt="Spaghetti">
+    
+    <h2>Description</h2>
+    <p>Spaghetti is a classic Italian pasta dish, often served with a rich tomato sauce and seasoned with herbs and spices.</p>
+    
+    <h2>Ingredients</h2>
+    <ul>
+        <li>400 g of spaghetti</li>
+        <li>2 tablespoons of olive oil</li>
+        <li>3 garlic cloves, minced</li>
+        <li>500 g of crushed tomatoes</li>
+        <li>1 teaspoon of sugar</li>
+        <li>Salt and pepper to taste</li>
+        <li>Fresh basil leaves</li>
+        <li>Grated Parmesan cheese</li>
+    </ul>
+    
+    <h2>Steps</h2>
+    <ol>
+        <li>Boil a pot of salted water and cook the spaghetti according to the package instructions.</li>
+        <li>In a large pan, heat the olive oil over medium heat.</li>
+        <li>Add minced garlic and sauté until fragrant.</li>
+        <li>Add the crushed tomatoes, sugar, salt, and pepper. Stir and let simmer for 10-15 minutes.</li>
+        <li>Drain the cooked spaghetti and mix it into the sauce.</li>
+        <li>Serve hot, garnished with fresh basil leaves and grated Parmesan cheese.</li>
+    </ol>
+</body>
+</html>
